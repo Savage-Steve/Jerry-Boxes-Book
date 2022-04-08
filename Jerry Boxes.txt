@@ -1,0 +1,9 @@
+	Skill XP	Jerry Rune	Jerry Candy	Jerry Talisman	Jerry Stone	Jerry-chine Gun	3D Glasses	20/50/150/500K	*/*/300K/1M	*/*/*/10M Coins	Total
+Green Box Data	953	9	157	170	16	33	4	1050	0	0	2392
+Green Box Odds	39.84%	0.38%	6.56%	7.11%	0.67%	1.38%	0.17%	43.90%	0.00%	0.00%	100.00%
+Blue Box Data	284	3	50	59	13	8	1	327	0	0	745
+Blue Box Odds	38.12%	0.40%	6.71%	7.92%	1.74%	1.07%	0.13%	43.89%	0.00%	0.00%	100.00%
+Purple Box Data	124	1	26	22	2	4	0	159	6	0	344
+Purple Box Odds	36.05%	0.29%	7.56%	6.40%	0.58%	1.16%	0.00%	46.22%	1.74%	0.00%	100.00%
+Gold Box Data	42	6	0	0	14	31	14	666	63	8	844
+Gold Box Odds	4.98%	0.71%	0.00%	0.00%	1.66%	3.67%	1.66%	78.91%	7.46%	0.95%	100.00%
